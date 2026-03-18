@@ -101,4 +101,4 @@ To enhance this app, you could add:
 
 ---
 
-**Perfect for Flutter beginners!** 🎉
+Made by Preet
